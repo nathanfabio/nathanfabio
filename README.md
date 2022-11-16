@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Future front-end developer<br>🧠 I have basic knowledge in HTLM5, CSS3 and Javascript!<br>💡 These technologies: ReactJs, Typescript, Tailwind, Bootstrap, SASS and others are in my mind for future learning.<br>📍 I am Brazilian and live in Brazil, but I can understand English.
+💻 Future front-end developer<br>🧠 I have basic knowledge in HTLM5, CSS3, Sass(Scss) and Javascript!<br>💡 These technologies: ReactJs, Typescript, Tailwind, Bootstrap, and others are in my mind for future learning.<br>📍 I am Brazilian and live in Brazil, but I can understand English.
 
 
 ## 🌐 Socials:
