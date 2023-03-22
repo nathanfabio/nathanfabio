@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Future Developer!<br>🧠 I have basic knowledge in Javascript and Golang!<br>💡 These technologies: ReactJs, Typescript, Tailwind, and others are in my mind for future learning.<br>📍 I am Brazilian and live in Brazil, but I can understand English.
+💻 Future Developer!<br>🧠 I have basic knowledge in Javascript and Golang!<br>💡 These technologies: Vue.js, Typescript, Tailwind, and others are in my mind for future learning.<br>📍 I am Brazilian and live in Brazil, but I can understand English.
 
 
 ## 🌐 Socials:
