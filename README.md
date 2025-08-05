@@ -1,5 +1,8 @@
 # 💫 About Me:
-💻 Future Developer!<br>🧠 I have knowledge in Golang, Docker, Blockchain and SQL<br>💡 These technologies: AWS, Kubernetes, and others are in my mind for future learning.<br>📍 I am Brazilian and live in Brazil, but I can understand English.
+💻 Backend Developer<br>
+🧠 I’m building a solid foundation in Golang, Docker, Blockchain, and SQL<br>
+🚀 Curious about technologies like AWS, Kubernetes, and more — always learning and exploring<br>
+🌍 Based in Brazil, open to remote opportunities, and comfortable reading and understanding English<br>
 
 
 ## 🌐 Socials:
