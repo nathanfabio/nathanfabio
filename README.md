@@ -1,5 +1,5 @@
-Golang Backend Developer<br>
-Based in Brazil, open to remote opportunities, and comfortable reading and understanding English<br>
+Freelancer Golang Backend Developer<br>
+Based in Brazil, open to remote opportunities, I speak Portuguese and English<br>
 
 
 ## 🌐 Socials:
